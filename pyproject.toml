@@ -1,0 +1,14 @@
+[project]
+name = "ComfyUI-JurdnsIterativeNoiseKsampler"
+description = "A ComfyUI node back that makes it easy to save metadata for use with sites like CIVITAI.COM using two simple nodes."
+version = "1.0.0"
+license = { file = "LICENSE.txt" }
+
+[project.urls]
+Repository = "https://github.com/jurdnf/ComfyUI-JurdnsIterativeNoiseKSampler.git"
+
+
+[tool.comfy]
+PublisherId = "iamjurdn"
+DisplayName = "ComfyUI-JurdnsMetadataNodes"
+includes = []
